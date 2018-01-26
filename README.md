@@ -5,11 +5,9 @@ FirstWebsite
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 
-<header
-	<title>	<h1>Research Methods for Journalism </h1></title>
-	<meta http-equiv="content-type"
-		content="text/html;charset=utf-8" />
-</head>
+<header>
+  <h1>Research Methods for Journalism</h1>
+</header>
 
 <body>
 <!--This is a comment. It won't show up in your browser, only in the page source-->
@@ -17,11 +15,8 @@ FirstWebsite
 </body>
 
 <body>
-<!--This is a comment. It won't show up in your browser, only in the page source-->
-	<p> Two atoms are walking along. One of them says:
-  “Oh, no, I think I lost an electron.”
-  “Are you sure?”
-  “Yes, I’m positive.”</p>
+  <p>
+  JOKE: Two atoms are walking along. One of them says. “Oh, no, I think I lost an electron.” “Are you sure?” “Yes, I’m positive.”</p>
 </body>
 
 <img src="http://2.bp.blogspot.com/--mZF4zD4Z1k/T4DKte_xZGI/AAAAAAAAEsk/93-xRCHWS5E/s1600/wordle.png" alt="this image cames from innovation journalism blog original version published in 2011 and was taken for asignment">
